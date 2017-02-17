@@ -29,4 +29,4 @@ Essa disciplina tem como objetivo que o aluno adquira os seguintes conhecimentos
 * Refletir sobre os problemas e ser criativo na busca de soluções.
 
 ## Planejamento 
-O planejamento da disciplinas está nesse [link](https://docs.google.com/spreadsheets/d/1W3Y5q_dxwYbi2ZT-_zFaJqHdzh3fKa-OB7Dt5oLfuvY/pubhtml) e todo o conteúdo esta na wiki.
+O planejamento da disciplinas está nesse [link](https://docs.google.com/spreadsheets/d/1W3Y5q_dxwYbi2ZT-_zFaJqHdzh3fKa-OB7Dt5oLfuvY/pubhtml) e todo o conteúdo esta na [wiki](https://github.com/paulossjunior/MD/wiki).
