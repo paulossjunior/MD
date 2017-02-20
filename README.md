@@ -1,4 +1,4 @@
-# Repositório da disciplina de Modelagem de Dados do curso Técnico de Informática do Ifes campus Serra.
+# Repositório da disciplina de Modelagem de Dados do curso Técnico de Informática do Ifes/Serra.
 
 ## Introdução 
 
